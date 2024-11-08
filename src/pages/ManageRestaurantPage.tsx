@@ -18,3 +18,4 @@ const ManageRestaurantPage = () => {
 };
 
 export default ManageRestaurantPage;
+
