@@ -10,10 +10,10 @@ const Header = () => {
           to="/"
           className="text-3xl font-bold tracking-tight text-orange-500"
         >
-          CraviiFy.com
+          CraviiFy
         </Link>
         <div className="md:hidden">
-            <MobileNav />
+          <MobileNav />
         </div>
         <div className="hidden md:block">
           <MainNav />
@@ -23,8 +23,4 @@ const Header = () => {
   );
 };
 
-
-
 export default Header;
-
-
